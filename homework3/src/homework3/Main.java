@@ -29,7 +29,7 @@ public class Main {
 				double result=total/6;
 				System.out.println("Ortalamanýz :" +result);
 				
-			String	passinggrade=result>=60 ?  "Geçti":"Kaldý"; 
+			String	passinggrade=result>=60 ?  "Geçti":"Kaldi"; 
 				System.out.println("Geçme Durumunuz :" + passinggrade);
 		
 
